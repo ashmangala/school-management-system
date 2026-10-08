@@ -24,6 +24,10 @@ A web app for managing students, staff, and subjects bult with Flask and SQLite.
 - **Frontend**: HTML, CSS, Jinja2 templates, JavaScript
 - **Auth**: Flask sessions + Werkzeug password hashing
 
+## Live Demo
+
+- https://school-management-system-sa2i.onrender.com
+
 ## 🎇 Setup
 
 ### 1. Clone the repo
